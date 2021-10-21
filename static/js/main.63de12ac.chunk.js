@@ -10210,7 +10210,7 @@
                 }, {
                     label: "NFT",
                     icon: "NftIcon",
-                    href: "/nft"
+                    href: "https://flintstone.finance/#/nft"
                 }, {
                     label: "More",
                     icon: "MoreIcon",
