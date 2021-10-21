@@ -10186,10 +10186,10 @@
                     icon: "TradeIcon",
                     items: [{
                         label: "Exchange",
-                        href: "/swap"
+                        href: "https://exchange.flintstone.finance/#/swap?inputCurrency=0xeca48ab5ee4812eb6395e961dc9aac53e72cc5a2"
                     }, {
                         label: "Liquidity",
-                        href: "/pool"
+                        href: "https://exchange.flintstone.finance/#/add/0xe9e7cea3dedca5984780bafc599bd69add087d56/0xeca48aB5EE4812eB6395E961dC9aac53E72Cc5A2"
                     }]
                 }, {
                     label: "Farms",
