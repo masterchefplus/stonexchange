@@ -10215,10 +10215,10 @@
                     label: "More",
                     icon: "MoreIcon",
                     items: [{
-                        label: "Gov",
+                        label: "SnapShot",
                         href: "https://snapshot.org/#/flintstonefinance.eth"
                     }, {
-                        label: "Gits",
+                        label: "Github",
                         href: "/"
                     }]
                 }],
