@@ -10183,7 +10183,7 @@
                     href: "https://flintstone.finance"
                 }, {
                     label: "Trade",
-                    icon: "TradeIcon",
+                    icon: "InfoIcon",
                     items: [{
                         label: "Exchange",
                         href: "https://exchange.flintstone.finance/#/swap?inputCurrency=0xeca48ab5ee4812eb6395e961dc9aac53e72cc5a2"
